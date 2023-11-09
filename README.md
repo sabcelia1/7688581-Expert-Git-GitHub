@@ -17,7 +17,7 @@ A définir
 
 ### Installation de l'environnement de travail
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
+Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel ;j'ai fini :
 
 
 ```
